@@ -6,35 +6,35 @@ Actualmente estoy finalizando el **FP Superior en Desarrollo de Aplicaciones Web
 
 ## 🚀 Perfil profesional
 
-Desarrollador web en formación, con experiencia en **Angular**, **TypeScript**, **JavaScript**, **Bootstrap** y despliegues con **Docker**.  
-Actualmente ampliando mis conocimientos en **backend** con **PHP** y **Laravel**.
+Desarrollador web en formación, con experiencia en Angular, TypeScript, JavaScript, Bootstrap y despliegues con Docker.  
+Actualmente ampliando mis conocimientos en backend con PHP y Laravel.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🔹 Backend
-- 🐘 **PHP**  
-- 🌐 **Laravel** *(en curso)*  
-- 🗄️ **MySQL**  
-- 🖥️ **Visual Basic**
+### Backend
+- PHP  
+- Laravel *(en curso)*  
+- MySQL  
+- Visual Basic  
 
-### 🔹 Frontend
-- ⚡ **Angular**  
-- 🟦 **TypeScript**  
-- 💛 **JavaScript**  
-- 💠 **jQuery**  
-- 🧱 **HTML5**  
-- 🎨 **CSS3 / Sass**  
-- 🅱️ **Bootstrap**  
-- 🔗 **Consumo de APIs REST**
+### Frontend
+- Angular  
+- TypeScript  
+- JavaScript  
+- jQuery  
+- HTML5  
+- CSS3 / Sass  
+- Bootstrap  
+- Consumo e integración de APIs REST  
 
-### 🔹 Herramientas
-- 🧰 **Git / GitHub**  
-- 🐳 **Docker**  
-- 🎨 **Figma**  
-- 💽 **VirtualBox**  
-- 📝 **Visual Studio Code**
+### Herramientas
+- Git / GitHub  
+- Docker  
+- Figma  
+- VirtualBox  
+- Visual Studio Code  
 
 ---
 
@@ -47,4 +47,6 @@ Busco oportunidades para crecer como desarrollador y aportar valor en equipos do
 
 ## 📫 Contacto
 
-Si quieres ponerte en contacto conmigo, puedes hacerlo a través del correo wban_@hotmail.com
+Si quieres ponerte en contacto conmigo, puedes hacerlo a través del correo **wban_@hotmail.com**
+
+
