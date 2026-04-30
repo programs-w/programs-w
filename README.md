@@ -1,42 +1,40 @@
-# 👋 ¡Hola! Soy un Desarrollador Web en formación
+# 👋 ¡Hola! Soy Walter, un Desarrollador Web en formación
 
-Actualmente estoy finalizando el **FP Superior en Desarrollo de Aplicaciones Web** en **BirtLH**, donde he construido una base sólida en desarrollo frontend y estoy ampliando mis conocimientos en backend. Me interesa crear aplicaciones funcionales, bien estructuradas y con buenas prácticas.
+Actualmente estoy finalizando el **FP Superior en Desarrollo de Aplicaciones Web**, donde he construido una base sólida en desarrollo frontend y estoy ampliando mis conocimientos en backend. Me interesa crear aplicaciones funcionales, bien estructuradas y con buenas prácticas.
 
 ---
 
 ## 🚀 Perfil profesional
 
-Desarrollador web en formación, a punto de finalizar el FP Superior en Desarrollo de Aplicaciones Web en BirtLH.  
-Cuento con una sólida base en tecnologías **frontend** como **Angular**, **TypeScript**, **JavaScript** y **Bootstrap**, además de experiencia en **despliegue con Docker**.  
-Actualmente estoy completando mi formación en **backend** con **PHP** y **Laravel**.
+Desarrollador web en formación, con experiencia en **Angular**, **TypeScript**, **JavaScript**, **Bootstrap** y despliegues con **Docker**.  
+Actualmente ampliando mis conocimientos en **backend** con **PHP** y **Laravel**.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### 🔹 Backend
-- PHP  
-- Laravel *(en curso)*  
-- MySQL  
-- Visual Basic  
+- 🐘 **PHP**  
+- 🌐 **Laravel** *(en curso)*  
+- 🗄️ **MySQL**  
+- 🖥️ **Visual Basic**
 
 ### 🔹 Frontend
-- Angular  
-- TypeScript  
-- JavaScript  
-- jQuery  
-- HTML5  
-- CSS3  
-- Sass  
-- Bootstrap  
-- Consumo e integración de APIs REST  
+- ⚡ **Angular**  
+- 🟦 **TypeScript**  
+- 💛 **JavaScript**  
+- 💠 **jQuery**  
+- 🧱 **HTML5**  
+- 🎨 **CSS3 / Sass**  
+- 🅱️ **Bootstrap**  
+- 🔗 **Consumo de APIs REST**
 
 ### 🔹 Herramientas
-- Git / GitHub  
-- Docker  
-- Figma  
-- VirtualBox  
-- Visual Studio Code  
+- 🧰 **Git / GitHub**  
+- 🐳 **Docker**  
+- 🎨 **Figma**  
+- 💽 **VirtualBox**  
+- 📝 **Visual Studio Code**
 
 ---
 
